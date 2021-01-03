@@ -1,8 +1,12 @@
 
 div{
     border: 20px solid salmon;
+    height: 500px;
    
 }
 h2{
     color: blue;
+}
+img{
+    height: 250px;
 }
