@@ -2,9 +2,10 @@
 div{
     border: 20px solid salmon;
     height: 500px;
-    border-radius: 33px;
+    border-radius: 30px;
     margin: 2%;
     padding: 2%;
+    width: 42%;
 
    
 }
