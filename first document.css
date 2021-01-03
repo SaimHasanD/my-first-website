@@ -1,16 +1,16 @@
 
 div{
     border: 20px solid salmon;
-    height: 500px;
     border-radius: 30px;
     margin: 2%;
     padding: 1%;
     width: 44%;
-
+    text-align: justify;
    
 }
 h2{
     color: blue;
+    text-align: center;
 }
 img{
     height: 250px;
