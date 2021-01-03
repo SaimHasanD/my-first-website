@@ -2,10 +2,11 @@
 div{
     border: 20px solid salmon;
     border-radius: 30px;
-    margin: 2%;
+    margin: 1%;
     padding: 1%;
-    width: 44%;
+    width: 40%;
     text-align: justify;
+    float: left;
    
 }
 h2{
